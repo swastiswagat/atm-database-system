@@ -1,5 +1,4 @@
 # atm-database-system
-# ATM Management System
 
 A database-driven ATM management system built using SQL to manage and track ATM transactions, user accounts, and system settings.
 
